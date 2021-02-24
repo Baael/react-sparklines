@@ -60,6 +60,7 @@
     "react-dom": "*"
   },
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "react-sparklines": "Baael/react-sparklines"
   }
 }

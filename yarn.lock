@@ -3373,6 +3373,12 @@ react-element-to-jsx-string@11.0.1:
     sortobject "^1.0.0"
     stringify-object "^3.2.0"
 
+react-sparklines@Baael/react-sparklines:
+  version "1.7.0"
+  resolved "https://codeload.github.com/Baael/react-sparklines/tar.gz/bf60029cca2c83c0555ca51da2e5d4f088cb96e6"
+  dependencies:
+    prop-types "^15.5.10"
+
 react@^15.0.2:
   version "15.6.1"
   resolved "https://registry.yarnpkg.com/react/-/react-15.6.1.tgz#baa8434ec6780bde997cdc380b79cd33b96393df"
